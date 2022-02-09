@@ -1,2 +1,2 @@
-# calculate_pi_opencl
+# Calculate Pi OpenCL
 Calculate Pi using OpenCL
